@@ -7,9 +7,16 @@ I wanted to make sure i felt comfortable replicating one of the most common task
 I had to find a solution to my above mentioned motivation. I produced this Refactor in order to satisfy and prove to myself that I was able to take what I've learned and turn it into real world application.
 
 ## What problem are we solving?
- Using semantic HTML elements is going to optimize our site for search engines
-  what did i learn
-  What makes my project stand out
-Refactoring a code to be more accessible. 
-Accessiblity improvements should make the code easy to read and interpret for a machine as well as people regardless of an individuals experience in reading code.
-When viewing text, line placement and indentations will be intentional. this will help the page flow and be easier to interpret as stated above
+* Using semantic HTML elements is going to optimize our site for search engines
+* Our code will be easy to follow even without an in depth background in coding
+* Future edits as accessability standards change will be easier to implement since the structure and flow of the page is up to date with todays accessability standards.
+
+## What I learned
+* Using semantic html is actually my new preferred way of coding. 
+* I love how much sense it makes.
+* No longer will one element, div for instance, represent mutliple different areas of the website. 
+* I can use section, article, aside, and more once I get into more dense coding.
+* mistakes due to the clutter and repitition of the same elements used over the whole website will be elimanted, saving me time :).
+
+## What should make this project stand out?
+My read me of course, code refactoring is something very common. I think the fact that I want to implement proper semantics into my coding, and my reasons behind that decission, should illustrate my understanding of the importance behind accessible code.
