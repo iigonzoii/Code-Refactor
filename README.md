@@ -7,7 +7,7 @@ I wanted to make sure i felt comfortable replicating one of the most common task
 I had to find a solution to my above mentioned motivation. I produced this Refactor in order to satisfy and prove to myself that I was able to take what I've learned and turn it into real world application.
 
 ## What problem are we solving?
- 
+ Using semantic HTML elements is going to optimize our site for search engines
   what did i learn
   What makes my project stand out
 Refactoring a code to be more accessible. 
