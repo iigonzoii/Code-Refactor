@@ -1,10 +1,13 @@
  # Code Refactor
 
+## Motivation
+I wanted to make sure i felt comfortable replicating one of the most common tasks for front-end and junior developers. 
 
-title - check
-what was my motivation
-why did i build this project
- what problem does it solve
+## Why this project?
+I had to find a solution to my above mentioned motivation. I produced this Refactor in order to satisfy and prove to myself that I was able to take what I've learned and turn it into real world application.
+
+## What problem are we solving?
+ 
   what did i learn
   What makes my project stand out
 Refactoring a code to be more accessible. 
