@@ -1,5 +1,5 @@
 # week1-homework
-
+<p align="center">Code Refactor</p>
 
 title
 what was my motivation
