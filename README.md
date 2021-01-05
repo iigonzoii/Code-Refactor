@@ -21,7 +21,7 @@ I had to find a solution to my above mentioned motivation. I produced this Refac
 ## What should make this project stand out?
 My read me of course, code refactoring is something very common. I think the fact that I want to implement proper semantics into my coding, and my reasons behind that decission, should illustrate my understanding of the importance behind accessible code.
 
-## live site
+## Deployed Application
 https://iigonzoii.github.io/Code-Refactor/
 <p>
   <img alt="screenshot1of3" src="./assets/images/horizeon1of3.jpg"> <img alt="screenshot2of3" src="./assets/images/horizeon2of3.jpg"><img alt="screenshot3of3" src="./assets/images/horizeon3of3.jpg"><img>   
